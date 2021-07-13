@@ -1,0 +1,117 @@
+.head
+{
+    background-color:white;
+    box-shadow:5px 5px 18px plum;
+    border-radius:25px;
+    width:80%;
+    height:6%;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+    font-size:17px;
+}
+
+body
+{
+  background-color:#cdf5ff;
+}
+
+.header_div
+{
+    width:70%;
+    height:25%;
+    padding-right:100px;
+    background-color:rgb(255, 212, 172);
+    color:white;
+    border-radius:30px;
+    box-shadow:5px 5px 50px rgb(188, 198, 255);
+    font-family:'Times New Roman', Times, serif;
+
+
+  
+}
+.header_div img
+{ 
+   width:130px;
+   height:130px;
+   border-radius:300px;
+}
+.text_images_and_result
+{
+    width:60%;
+    height:600px;
+    background-color:rgb(252, 203, 248);
+    border-radius:20px;
+    box-shadow: 5px 5px 50px rgb(253, 141, 229);
+}
+.text_images_and_result img
+{
+    width:400px;
+    height:400px;
+    border-radius:50px;
+}
+
+.result
+{
+    width:90%;
+    height:20%;
+    color:white;
+    background-color:rgb(250, 198, 198);
+    box-shadow:5px 5px 50px rgb(188, 198, 255);
+    border-radius:20px;
+}
+
+span , h5
+{
+   font-size:17px;
+   font-family:cursive;
+}
+
+.result
+{
+    text-align:left;
+}
+#case_study
+{
+    width:120px;
+    height:120px;
+    border-radius:50px;
+}
+
+.bob3 h4
+{
+    font-style:italic;
+    color:red;
+    font-family:cursive;
+
+
+}
+p
+{
+    font-size:20px;
+    font-family:cursive;
+    color:blue;
+    font-style:italic;
+}
+.heading
+{
+    width:40%;
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+
+
+}
+
+h1
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    color:rgb(255, 57, 172);
+    font-size:35px;
+}
+h1 img 
+{
+    width:100px;
+    height:100px;
+    
+
+}
